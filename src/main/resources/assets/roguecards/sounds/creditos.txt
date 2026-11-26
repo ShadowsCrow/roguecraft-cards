@@ -1,0 +1,12 @@
+Sons do Roguecraft Cards
+
+Sons gerados com a ElevenLabs (efeitos sonoros por IA, gerados por conta paga do autor do mod)
+  card_pick_4.ogg, card_flip_1.ogg, level_up.ogg,
+  reveal_common.ogg, reveal_uncommon.ogg, reveal_rare.ogg, reveal_epic.ogg, reveal_legendary.ogg
+  Gerados pelo script design/sons/elevenlabs.py do repositório do mod (pedidos em inglês no script).
+  Mudanças: silêncio do início cortado, duração limitada com final suavizado, mono, volume normalizado.
+
+Sons gerados por script (sem gravações de terceiros; fazem parte do mod, mesma licença dele)
+  legendary_charge.ogg
+  Feitos só com síntese (senos, ruído filtrado e reverberação simples) pelo script design/sons/sintetizar.py
+  do repositório do mod. Para refazer: python design/sons/sintetizar.py (precisa de numpy e ffmpeg).

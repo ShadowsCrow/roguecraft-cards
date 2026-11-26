@@ -1,0 +1,28 @@
+{
+  "parent": "roguecards:rare_card",
+  "display": {
+    "icon": {
+      "id": "roguecards:diamond_luck_charm"
+    },
+    "title": {
+      "translate": "advancements.roguecards.epic_card.title"
+    },
+    "description": {
+      "translate": "advancements.roguecards.epic_card.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "code": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "code"
+    ]
+  ]
+}

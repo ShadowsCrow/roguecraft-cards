@@ -1,0 +1,28 @@
+{
+  "parent": "roguecards:epic_card",
+  "display": {
+    "icon": {
+      "id": "roguecards:netherite_luck_charm"
+    },
+    "title": {
+      "translate": "advancements.roguecards.legendary_card.title"
+    },
+    "description": {
+      "translate": "advancements.roguecards.legendary_card.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "code": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "code"
+    ]
+  ]
+}

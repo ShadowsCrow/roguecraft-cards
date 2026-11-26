@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "roguecards:item/diamond_luck_charm"
+  }
+}

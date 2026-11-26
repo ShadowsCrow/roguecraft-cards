@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "roguecards:iron_luck_charm",
+    "roguecards:gold_luck_charm",
+    "roguecards:diamond_luck_charm",
+    "roguecards:netherite_luck_charm"
+  ]
+}

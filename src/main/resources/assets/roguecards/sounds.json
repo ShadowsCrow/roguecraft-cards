@@ -1,0 +1,56 @@
+{
+  "level_up": {
+    "subtitle": "subtitles.roguecards.level_up",
+    "sounds": [
+      "roguecards:level_up"
+    ]
+  },
+  "card_pick": {
+    "subtitle": "subtitles.roguecards.card_pick",
+    "sounds": [
+      "roguecards:card_pick_4"
+    ]
+  },
+  "card_flip": {
+    "subtitle": "subtitles.roguecards.card_flip",
+    "sounds": [
+      "roguecards:card_flip_1"
+    ]
+  },
+  "legendary_charge": {
+    "subtitle": "subtitles.roguecards.legendary_charge",
+    "sounds": [
+      "roguecards:legendary_charge"
+    ]
+  },
+  "reveal_common": {
+    "subtitle": "subtitles.roguecards.reveal",
+    "sounds": [
+      "roguecards:reveal_common"
+    ]
+  },
+  "reveal_uncommon": {
+    "subtitle": "subtitles.roguecards.reveal",
+    "sounds": [
+      "roguecards:reveal_uncommon"
+    ]
+  },
+  "reveal_rare": {
+    "subtitle": "subtitles.roguecards.reveal",
+    "sounds": [
+      "roguecards:reveal_rare"
+    ]
+  },
+  "reveal_epic": {
+    "subtitle": "subtitles.roguecards.reveal",
+    "sounds": [
+      "roguecards:reveal_epic"
+    ]
+  },
+  "reveal_legendary": {
+    "subtitle": "subtitles.roguecards.reveal",
+    "sounds": [
+      "roguecards:reveal_legendary"
+    ]
+  }
+}

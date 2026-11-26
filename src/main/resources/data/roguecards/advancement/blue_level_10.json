@@ -1,0 +1,28 @@
+{
+  "parent": "roguecards:root",
+  "display": {
+    "icon": {
+      "id": "minecraft:lapis_lazuli"
+    },
+    "title": {
+      "translate": "advancements.roguecards.blue_level_10.title"
+    },
+    "description": {
+      "translate": "advancements.roguecards.blue_level_10.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "code": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "code"
+    ]
+  ]
+}

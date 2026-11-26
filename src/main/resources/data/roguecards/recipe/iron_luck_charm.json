@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " C ",
+    "RTE",
+    " M "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:chain"
+    },
+    "R": {
+      "item": "minecraft:rabbit_foot"
+    },
+    "T": {
+      "item": "roguecards:four_leaf_clover"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "M": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "roguecards:iron_luck_charm",
+    "count": 1
+  }
+}
